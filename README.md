@@ -1,7 +1,7 @@
 # Deep Learning for Natural Language Processing
 This repository is home to the code accompanying  the Deep Learning for Natural Language Processing series of video tutorials.
 
-# Notebooks
+# Curriculum
 
 ### Deep Learning for Natural Language Processing
 
